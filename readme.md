@@ -5,5 +5,5 @@ What do you think?
 # Purpose
 
 # Contributors
-Alexia
-Victoria
+* Alexia
+* Victoria
